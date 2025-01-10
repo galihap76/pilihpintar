@@ -20,7 +20,6 @@ const urlsToCache = [
   "/images/lazada.webp",
   "/js/bootstrap.js",
   "/js/custom.js",
-  "/js/jquery-3.4.1.min.js",
   "/js/script.js",
 ];
 
