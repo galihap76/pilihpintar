@@ -1,6 +1,6 @@
 ## Pembuka 
 
-Ini merupakan sebuah repo untuk memenuhi tugas UAS pada mata kuliah pemrograman berangkat bergerak. Di sini kami mengembangkan sebuah web affiliasi marketing dengan fitur PWA. Sebelum itu, perkenalkan kami dari kelompok 4 :
+Ini merupakan sebuah repo untuk memenuhi tugas UAS pada mata kuliah pemrograman berangkat bergerak. Di sini kami mengembangkan sebuah web affiliasi marketing dengan fitur PWA. Sebelum itu, perkenalkan kami dari kelompok 2 :
 
 1.	Farchatul Hudayah (22205071)
 2.	Bintang Fajar Nusantara (22205028)
